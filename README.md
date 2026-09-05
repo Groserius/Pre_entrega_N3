@@ -4,7 +4,7 @@
 -- ============================================================
 
 --Crear e inicializar la base de datos
-CREATE DATABASE Ventas_Tech_DB;
+CREATE DATABASE ventas_tech_db;
 
 --DROP TABLES
 DROP TABLE IF EXISTS ventas;
