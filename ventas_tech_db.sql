@@ -1,4 +1,4 @@
-CREATE DATABASE ventas_vech_db;
+CREATE DATABASE Ventas_Tech_DB;
 
 DROP TABLE IF EXISTS ventas;
 DROP TABLE IF EXISTS productos;
